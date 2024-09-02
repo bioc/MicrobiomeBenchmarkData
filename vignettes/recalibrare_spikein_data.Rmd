@@ -108,6 +108,13 @@ assay(tse) <- SCML_data
 tse
 ```
 
+## A more convenient way using the scml function included in the package:
+
+```{r}
+tse <- getBenchmarkData('Stammler_2016_16S_spikein', dryrun = FALSE)[[1]]
+tse <- scml(tse,bac = "s")
+```
+
 # Session information
 
 ```{r}
