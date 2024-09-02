@@ -2,6 +2,7 @@
 
 export(getBenchmarkData)
 export(removeCache)
+export(scml)
 import(SummarizedExperiment)
 importFrom(BiocFileCache,BiocFileCache)
 importFrom(BiocFileCache,bfcadd)

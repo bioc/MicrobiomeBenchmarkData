@@ -1,6 +1,6 @@
 Package: MicrobiomeBenchmarkData
 Title: Datasets for benchmarking in microbiome research
-Version: 1.7.0
+Version: 1.7.1
 Description: The MicrobiomeBenchmarkData package provides functionality to 
     access microbiome datasets suitable for benchmarking. These datasets
     have some biological truth, which allows to have expected results for
@@ -58,6 +58,6 @@ URL: https://github.com/waldronlab/MicrobiomeBenchmarkData,
 BiocType: ExperimentData
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.2
 VignetteBuilder: knitr
 Config/testthat/edition: 3

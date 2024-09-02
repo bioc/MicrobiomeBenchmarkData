@@ -2,9 +2,33 @@
 % Please edit documentation in R/MicrobiomeBenchmarkData-package.R
 \docType{package}
 \name{MicrobiomeBenchmarkData}
+\alias{MicrobiomeBenchmarkData-package}
 \alias{MicrobiomeBenchmarkData}
 \title{MicrobiomeBenchmarkData}
 \description{
 The \code{MicrobiomeBenchmarkData} provide functions for accessing
 various microbiome datasets with biological ground truth.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/waldronlab/MicrobiomeBenchmarkData}
+  \item \url{http://waldronlab.io/MicrobiomeBenchmarkData/}
+  \item Report bugs at \url{https://github.com/waldronlab/MicrobiomeBenchmarkData/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Samuel Gamboa \email{Samuel.Gamboa.Tuz@gmail.com} (\href{https://orcid.org/0000-0002-6863-7943}{ORCID})
+
+Authors:
+\itemize{
+  \item Levi Waldron (\href{https://orcid.org/0000-0003-2725-0694}{ORCID})
+}
+
+Other contributors:
+\itemize{
+  \item Marcel Ramos [contributor]
+}
+
 }
