@@ -1,6 +1,8 @@
-# Changes in version 1.15.2 (2026-11-02)
+# Changes in version 1.16.0
 
-+ Levi Waldron is now the maintainer.
+## BUG FIXES AND MINOR IMPROVEMENTS
+
++ Levi Waldron is now the maintainer (#17, @lwaldron).
 
 # Changes in version 0.99.0 (2021-09-26)
 
